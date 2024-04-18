@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FrameLayoutTest</string>
+    <string name="flower1">코스모스</string>
+    <string name="flower2">라넌큘러스</string>
+    <string name="flower3">프리지아</string>
+</resources>
